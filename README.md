@@ -14,43 +14,31 @@
 
 ## 🧰 Tech Stack
 
-**Frontend**  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react) 
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 
-**Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js) 
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-![Go](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go)
+### 👨‍💻 Frontend
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20" /> React.js  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="20" /> TypeScript  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20" /> JavaScript  
+- <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="20" /> Tailwind CSS  
+ 
 
-**Database**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+### 🧠 Backend
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="20" /> Node.js  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="20" /> Express.js  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="20" /> Django  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="20" /> Golang  
+
+### 🛢️ Database & Auth
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="20" /> MongoDB  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="20" /> PostgreSQL  
+ 
+### ⚙️ DevOps & Tools
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="20" /> Git  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="20" /> GitHub  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="20" /> Docker  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="20" /> VS Code  
 
 
-**Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
-
----
-
-## 📊 GitHub Insights
-
-### 🔥 Contribution Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=dheerajsure&theme=highcontrast&hide_border=false)](https://git.io/streak-stats)
-
----
-
-### 💻 Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajsure&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### 📈 GitHub Stats
-![Dheeraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dheerajsure&show_icons=true&theme=dark&rank_icon=percentile)
 
 ---
 
