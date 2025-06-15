@@ -31,7 +31,7 @@
 ### 🛢️ Database & Auth
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="20" /> MongoDB  
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="20" /> PostgreSQL
-- - 🔐 JWT Auth 
+- 🔐 JWT Auth 
  
 ### ⚙️ DevOps & Tools
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="20" /> Git  
