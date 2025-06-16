@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dheeraj Sure!
 
-🎓 Robotics & AI graduate | 💻 Full Stack Developer | 🌐 Passionate about Web & Backend Development
+🎓 Final-year student in Robotics & AI | 💻 Full Stack Developer | 🌐 Passionate about Web & Backend Development
 
 ---
 
