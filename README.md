@@ -20,20 +20,33 @@
 ## 🛠️ Tech Stack
 
 ### **Languages & Frameworks**
+### **Frontend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,nodejs,express,django,mongodb,postgres,go,python" height="40"/>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,js,ts" height="40"/>
+  <img src="https://skillicons.dev/icons?i=framer" height="40" alt="Framer Motion" />
+  <img src="https://skillicons.dev/icons?i=daisyui" height="40" alt="DaisyUI" />
+</p>
 
-  <!-- Additional icons -->
+### **Backend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,go,python" height="40"/>
+</p>
+
+### **Database & Caching**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" height="40"/>
+</p>
+
+### **Testing**
+<p align="left">
   <img src="https://skillicons.dev/icons?i=vitest" height="40" alt="Vitest" />
-  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="Redis" />
-  <img src="https://skillicons.dev/icons?i=websocket" height="40" alt="WebSockets" />
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana,loki" height="40" alt="Monitoring & Observability" />
 </p>
 
-### **Tools & Platforms**
+### **Monitoring & Observability**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,aws" height="40"/>
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana,loki" height="40"/>
 </p>
+
 
 ---
 
