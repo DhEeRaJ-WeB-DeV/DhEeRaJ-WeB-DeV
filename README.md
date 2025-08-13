@@ -19,12 +19,32 @@
 
 ## 🛠️ Tech Stack
 
-| **Frontend** | **Backend** | **Database & Caching** | **Testing** | **Monitoring & Observability** |
-|--------------|-------------|------------------------|-------------|---------------------------------|
-| <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,js,ts" height="40"/> <img src="https://skillicons.dev/icons?i=framer" height="40"/> <img src="https://skillicons.dev/icons?i=daisyui" height="40"/> | <img src="https://skillicons.dev/icons?i=nodejs,express,django,go,python" height="40"/> | <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" height="40"/> | <img src="https://skillicons.dev/icons?i=vitest" height="40"/> | <img src="https://skillicons.dev/icons?i=prometheus,grafana,loki" height="40"/> |
+### **Frontend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,js,ts" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=framer" height="40" alt="Framer Motion" /> 
+  <img src="https://skillicons.dev/icons?i=daisyui" height="40" alt="DaisyUI" />
+</p>
 
+### **Backend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,go,python" height="40"/>
+</p>
 
+### **Database & Caching**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" height="40"/>
+</p>
 
+### **Testing**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vitest" height="40" alt="Vitest" />
+</p>
+
+### **Monitoring & Observability**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana,loki" height="40"/>
+</p>
 
 ---
 
