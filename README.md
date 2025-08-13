@@ -19,9 +19,7 @@
 
 ## 🛠️ Tech Stack
 
-**Frontend:**  
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,js,ts" height="40" /> 
-<img src="https://skillicons.dev/icons?i=framer" height="40" alt="Framer Motion" /> 
+**Frontend:**  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,js,ts" height="40" /> <img src="https://skillicons.dev/icons?i=framer" height="40" alt="Framer Motion" /> 
 <img src="https://skillicons.dev/icons?i=daisyui" height="40" alt="DaisyUI" />  
 
 **Backend:**  
