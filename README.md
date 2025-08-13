@@ -17,21 +17,17 @@
 
 ---
 
-## 🪄 About Me
-
-Final-year engineering student passionate about full-stack development, software testing, and DevOps. Skilled in 
-building reliable, containerized applications with observability, caching, and deployment automation. Experienced in 
-creating scalable backend systems, intuitive frontends, and ensuring quality through unit testing and debugging. 
-Motivated to collaborate with engineering teams to deliver impactful, high-quality solutions that contribute to the 
-organization’s goals. 
-
----
-
 ## 🛠️ Tech Stack
 
 ### **Languages & Frameworks**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,nodejs,express,django,mongodb,postgres,go,python" height="40"/>
+
+  <!-- Additional icons -->
+  <img src="https://skillicons.dev/icons?i=vitest" height="40" alt="Vitest" />
+  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="Redis" />
+  <img src="https://skillicons.dev/icons?i=websocket" height="40" alt="WebSockets" />
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana,loki" height="40" alt="Monitoring & Observability" />
 </p>
 
 ### **Tools & Platforms**
@@ -42,29 +38,13 @@ organization’s goals.
 ---
 
 ## 📚 Libraries & Topics
-- ⚛ **React Ecosystem**: React Router, React Hooks, Zustand  
+- 🎯 **Frontend**: React, TailwindCSS, DaisyUI, Framer Motion  
 - 🧠 **State Management**: Zustand, Context API  
-- 🎨 **UI & Animations**: Framer Motion, TailwindCSS, DaisyUI  
-- 🌐 **Backend**: Express.js, Django, REST APIs, JWT Auth  
-- 🗄 **Databases**: MongoDB, PostgreSQL  
+- 🧪 **Testing**: Vitest (Unit Testing)  
+- 🌐 **Backend**: Express.js, Django, REST APIs, JWT Auth, WebSockets  
+- 🗄 **Databases & Caching**: MongoDB, PostgreSQL, Redis  
+- 📈 **Monitoring & Observability**: Prometheus, Grafana, Loki  
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dheerajsure&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajsure&layout=compact&theme=tokyonight" height="150" />
-</p>
-
----
-
-## 🌐 Connect with Me
-<p align="left">
-  <a href="mailto:dheerajsure595@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/dheerajsure" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
----
-
-⭐ **"Always building, always learning."**
+⭐ **"I'm always open to discussing new opportunities, interesting projects or just having a chat about technology."**
