@@ -36,7 +36,7 @@
 
 ---
 
-## <img src="https://img.icons8.com/ios-filled/50/000000/library.png" height="25"/> Libraries & Topics
+## ![Libraries & Topics](https://img.shields.io/badge/Libraries%20&%20Topics-blue?style=for-the-badge&logo=bookstack&logoColor=white)
 - <img src="https://skillicons.dev/icons?i=react" height="20"/> **Frontend**: React, TailwindCSS, DaisyUI, Framer Motion  
 - <img src="https://skillicons.dev/icons?i=react" height="20"/> **State Management**: Zustand, Context API  
 - <img src="https://skillicons.dev/icons?i=vitest" height="20"/> **Testing**: Vitest (Unit Testing)  
