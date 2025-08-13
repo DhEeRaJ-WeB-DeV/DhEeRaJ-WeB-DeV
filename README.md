@@ -21,7 +21,7 @@
 
  ### **Languages & Frameworks**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,js,ts,framer,daisyui,nodejs,express,django,go,python,mongodb,postgres,redis,vitest,prometheus,grafana,loki" height="40"/>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,js,ts,framer,daisyui,nodejs,express,django,go,python" height="40"/>
 </p>
 
 ### **Tools & Platforms**
