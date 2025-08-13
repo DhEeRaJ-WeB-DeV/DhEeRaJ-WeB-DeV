@@ -10,7 +10,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://dheeraj-web-dev.github.io/portfolio/" target="_blank">
-      <img src="assets/your-chosen-banner.png" />
+      <img src="[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dheeraj-web-dev.github.io/portfolio/)" />
     </a>
   </h3>
 </div>
