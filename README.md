@@ -19,20 +19,19 @@
 
 ## 🛠️ Tech Stack
 
-**Frontend:**  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,js,ts" height="40" /> <img src="https://skillicons.dev/icons?i=framer" height="40" alt="Framer Motion" /> 
-<img src="https://skillicons.dev/icons?i=daisyui" height="40" alt="DaisyUI" />  
+**Frontend:**  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,js,ts,framer,daisyui" height="40" /> 
 
-**Backend:**  
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,go,python" height="40" />  
+**Backend:**  <img src="https://skillicons.dev/icons?i=nodejs,express,django,go,python" height="40" />
+  
 
-**Database & Caching:**  
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" height="40" />  
+**Database & Caching:**  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" height="40" />  
 
-**Testing:**  
-<img src="https://skillicons.dev/icons?i=vitest" height="40" alt="Vitest" />  
 
-**Monitoring & Observability:**  
-<img src="https://skillicons.dev/icons?i=prometheus,grafana,loki" height="40" />  
+**Testing:**  <img src="https://skillicons.dev/icons?i=vitest" height="40" alt="Vitest" /> 
+ 
+
+**Monitoring & Observability:**  <img src="https://skillicons.dev/icons?i=prometheus,grafana,loki" height="40" />  
+
 
 ---
 
