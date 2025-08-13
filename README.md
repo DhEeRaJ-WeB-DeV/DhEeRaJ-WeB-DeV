@@ -1,68 +1,55 @@
-# 👋 Hi, I'm Dheeraj Sure!
-
-🎓 Final-year student in Robotics & AI | 💻 Full Stack Developer | 🌐 Passionate about Web & Backend Development
-
----
-
-## 🚀 About Me
-
-- 🔭 Currently working on full-stack projects
-- 🌱 Learning **Golang**, **CI/CD**, **Cloud Deployment (AWS)**
-- 👨‍💻 Interested in building scalable web apps and APIs
+<!-- Banner / Greeting -->
+<h1 align="center">👋 Hey, I'm <span style="color:#00BFFF">Dheeraj Sure</span></h1>
+<h3 align="center">🚀 Final-year Robotics & AI Student | 💻 Full Stack Developer | 🌐 Backend Enthusiast</h3>
 
 ---
 
-
-<h3 align="left">🛠 Languages & Tools</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="TailwindCSS" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  <img width="12" /> 
-</div>
-
-
-
+## 🪄 About Me
+- 🔭 Currently working on **Full-Stack Projects**
+- 🌱 Learning **Golang**, **CI/CD**, **AWS Cloud Deployment**
+- 💡 Passionate about **Scalable Web Apps & APIs**
+- 📬 Reach me at: **dheerajsure595@gmail.com**
 
 ---
 
-## 📚 Topics & Libraries I’ve Worked With
+## 🛠️ Tech Stack
 
-- ⚛️ React Ecosystem: React Router, React Hooks, Zustand
-- 🧠 State Management: Zustand, useContext API
-- 🎨 Animations & UI: Framer Motion, Tailwind CSS, DaisyUI
-- 🌐 Backend: Express.js, Django, REST APIs, JWT Auth
-- 🗄️ Databases: MongoDB, PostgreSQL
-- ⚙️ Dev Tools: Git, GitHub, Postman, VS Code
+### **Languages & Frameworks**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,nodejs,express,django,mongodb,postgres,go,python" height="40"/>
+</p>
+
+### **Tools & Platforms**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,aws" height="40"/>
+</p>
 
 ---
 
-> ✨ Thanks for visiting! I’m always open to feedback and collaboration.
+## 📚 Libraries & Topics
+- ⚛ **React Ecosystem**: React Router, React Hooks, Zustand  
+- 🧠 **State Management**: Zustand, Context API  
+- 🎨 **UI & Animations**: Framer Motion, TailwindCSS, DaisyUI  
+- 🌐 **Backend**: Express.js, Django, REST APIs, JWT Auth  
+- 🗄 **Databases**: MongoDB, PostgreSQL  
 
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dheerajsure&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajsure&layout=compact&theme=tokyonight" height="150" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+<p align="left">
+  <a href="mailto:dheerajsure595@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/dheerajsure" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+⭐ **"Always building, always learning."**
