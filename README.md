@@ -19,32 +19,22 @@
 
 ## 🛠️ Tech Stack
 
-### **Frontend**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,js,ts" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=framer" height="40" alt="Framer Motion" /> 
-  <img src="https://skillicons.dev/icons?i=daisyui" height="40" alt="DaisyUI" />
-</p>
+**Frontend:**  
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,js,ts" height="40" /> 
+<img src="https://skillicons.dev/icons?i=framer" height="40" alt="Framer Motion" /> 
+<img src="https://skillicons.dev/icons?i=daisyui" height="40" alt="DaisyUI" />  
 
-### **Backend**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,go,python" height="40"/>
-</p>
+**Backend:**  
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,go,python" height="40" />  
 
-### **Database & Caching**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" height="40"/>
-</p>
+**Database & Caching:**  
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" height="40" />  
 
-### **Testing**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vitest" height="40" alt="Vitest" />
-</p>
+**Testing:**  
+<img src="https://skillicons.dev/icons?i=vitest" height="40" alt="Vitest" />  
 
-### **Monitoring & Observability**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana,loki" height="40"/>
-</p>
+**Monitoring & Observability:**  
+<img src="https://skillicons.dev/icons?i=prometheus,grafana,loki" height="40" />  
 
 ---
 
