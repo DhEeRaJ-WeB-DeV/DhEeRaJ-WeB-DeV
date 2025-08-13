@@ -20,7 +20,8 @@
 ## 🛠️ Tech Stack
 
 **Languages & Frameworks:** 
- <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,js,ts,framer,daisyui,nodejs,express,django,go,python,mongodb,postgres,redis,vitest,prometheus,grafana,loki" height="40" /> 
+ <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,js,ts,framer,daisyui,nodejs,express,django,go,python,mongodb,postgres,redis,vitest,prometheus,grafana,loki&perline=6" height="60" />
+ 
 
 
 
