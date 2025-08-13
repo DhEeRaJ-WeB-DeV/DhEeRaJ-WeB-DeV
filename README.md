@@ -19,18 +19,20 @@
 
 ## 🛠️ Tech Stack
 
- ### **Languages & Frameworks**
+ ### **Languages**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,js,ts,framer,daisyui,nodejs,express,django,go,python" height="40"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,go,python" height="40"/>
 </p>
 
-### **Tools & Platforms**
+### **Frameworks,Database & Testing**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,aws" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,react,html,css,tailwind,mongodb,postgres,redis,vitest,,framer,daisyui" height="40"/>
 </p>
 
-
-
+### **DevOps & Monitoring**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,prometheus,grafana,loki" height="40"/>
+</p>
 
 ---
 
