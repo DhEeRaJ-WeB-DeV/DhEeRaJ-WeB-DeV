@@ -1,15 +1,19 @@
 <!-- Banner / Greeting -->
-<h1 align="center">👋 Hey, I'm <span style="color:#00BFFF">Dheeraj Sure</span></h1>
-<h3 align="center"> <a href="mailto:dheerajsure595@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://hub.docker.com/u/YOUR-DOCKER-USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Hub" />
-  </a>
-</h3>
+<div align="center">
+  <img src="https://media.giphy.com/media/your-coding-gif.gif" width="200" alt="Coding"/>
+  <h1>👋 Hey, I'm <span style="color:#00BFFF">Dheeraj Sure</span></h1>
+  <h3>
+    <a href="mailto:dheerajsure595@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://hub.docker.com/u/YOUR-DOCKER-USERNAME" target="_blank">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    </a>
+  </h3>
+</div>
 
 ---
 
