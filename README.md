@@ -37,12 +37,12 @@
 ---
 
 ## 📚 Libraries & Topics
-- 🎯 **Frontend**: React, TailwindCSS, DaisyUI, Framer Motion  
-- 🧠 **State Management**: Zustand, Context API  
-- 🧪 **Testing**: Vitest (Unit Testing)  
-- 🌐 **Backend**: Express.js, Django, REST APIs, JWT Auth, WebSockets  
-- 🗄 **Databases & Caching**: MongoDB, PostgreSQL, Redis  
-- 📈 **Monitoring & Observability**: Prometheus, Grafana, Loki  
+- <img src="https://skillicons.dev/icons?i=react,tailwind" height="20"/> **Frontend**: React, TailwindCSS, DaisyUI, Framer Motion  
+- <img src="https://skillicons.dev/icons?i=zustand" height="20"/> **State Management**: Zustand, Context API  
+- <img src="https://skillicons.dev/icons?i=vitest" height="20"/> **Testing**: Vitest (Unit Testing)  
+- <img src="https://skillicons.dev/icons?i=nodejs,django" height="20"/> **Backend**: Express.js, Django, REST APIs, JWT Auth, WebSockets  
+- <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" height="20"/> **Databases & Caching**: MongoDB, PostgreSQL, Redis  
+- <img src="https://skillicons.dev/icons?i=prometheus,grafana" height="20"/> **Monitoring & Observability**: Prometheus, Grafana, Loki
 
 ---
 
