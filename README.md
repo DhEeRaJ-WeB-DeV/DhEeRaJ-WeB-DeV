@@ -26,7 +26,7 @@
 
 ### **Frameworks,Database & Testing**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,react,html,css,tailwind,mongodb,postgres,redis,vitest,,framer,daisyui" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,react,html,css,tailwind,mongodb,postgres,redis,vitest,framer,daisyui" height="40"/>
 </p>
 
 ### **DevOps & Monitoring**
@@ -38,7 +38,7 @@
 
 ## 📚 Libraries & Topics
 - <img src="https://skillicons.dev/icons?i=react" height="20"/> **Frontend**: React, TailwindCSS, DaisyUI, Framer Motion  
-- <img src="https://skillicons.dev/icons?i=daisyui" height="20"/> **State Management**: Zustand, Context API  
+- <img src="https://skillicons.dev/icons?i=react" height="20"/> **State Management**: Zustand, Context API  
 - <img src="https://skillicons.dev/icons?i=vitest" height="20"/> **Testing**: Vitest (Unit Testing)  
 - <img src="https://skillicons.dev/icons?i=nodejs" height="20"/> **Backend**: Express.js, Django, REST APIs, JWT Auth, WebSockets  
 - <img src="https://skillicons.dev/icons?i=postgres" height="20"/> **Databases & Caching**: MongoDB, PostgreSQL, Redis  
