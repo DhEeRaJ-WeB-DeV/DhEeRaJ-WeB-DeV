@@ -18,10 +18,12 @@
 ---
 
 ## 🪄 About Me
-- 🔭 Currently working on **Full-Stack Projects**
-- 🌱 Learning **Golang**, **CI/CD**, **AWS Cloud Deployment**
-- 💡 Passionate about **Scalable Web Apps & APIs**
-- 📬 Reach me at: **dheerajsure595@gmail.com**
+
+Final-year engineering student passionate about full-stack development, software testing, and DevOps. Skilled in 
+building reliable, containerized applications with observability, caching, and deployment automation. Experienced in 
+creating scalable backend systems, intuitive frontends, and ensuring quality through unit testing and debugging. 
+Motivated to collaborate with engineering teams to deliver impactful, high-quality solutions that contribute to the 
+organization’s goals. 
 
 ---
 
