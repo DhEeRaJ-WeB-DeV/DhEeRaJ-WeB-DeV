@@ -42,42 +42,44 @@ Software engineer with a **customer-first mindset** and strong troubleshooting i
 
 ### 🛠️ Tech Stack
 
-**Languages**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,go,python" height="45"/>
-</p>
+<div align="center">
 
-**Frontend**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" height="45"/>
-</p>
+<table>
+  <tr>
+    <td align="right"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=js,ts,go,python" height="40"/></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,html,css,tailwind" height="40"/></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,django" height="40"/></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Databases &amp; Caching</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" height="40"/></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Cloud &amp; DevOps</b></td>
+    <td><img src="https://skillicons.dev/icons?i=aws,docker,git,github" height="40"/></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Monitoring &amp; Testing</b></td>
+    <td><img src="https://skillicons.dev/icons?i=prometheus,grafana,jest,vitest,postman" height="40"/></td>
+  </tr>
+  <tr>
+    <td align="right"><b>AI-Assisted Dev</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" height="28"/>
+      <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" height="28"/>
+      <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" height="28"/>
+    </td>
+  </tr>
+</table>
 
-**Backend**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django" height="45"/>
-</p>
-
-**Databases & Caching**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" height="45"/>
-</p>
-
-**Cloud & DevOps**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github" height="45"/>
-</p>
-
-**Monitoring & Testing**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana,jest,vitest,postman" height="45"/>
-</p>
-
-**AI-Assisted Development**
-<p align="left">
-  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-</p>
+</div>
 
 ---
 
