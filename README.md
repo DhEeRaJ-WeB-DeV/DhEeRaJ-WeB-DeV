@@ -10,13 +10,15 @@
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/dheeraj-sure/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/static/v1?label=&message=&color=0077B5&style=for-the-badge&logo=linkedin&logoColor=white" height="45" />
 </a>
-<a href="https://github.com/dheeraj-web-dev" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+&nbsp;
+<a href="mailto:dheerajsure595@gmail.com">
+  <img src="https://img.shields.io/static/v1?label=&message=&color=D14836&style=for-the-badge&logo=gmail&logoColor=white" height="45" />
 </a>
+&nbsp;
 <a href="https://dheeraj-web-dev.github.io/portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/static/v1?label=&message=&color=000000&style=for-the-badge&logo=googlechrome&logoColor=white" height="45" />
 </a>
 
 <br/><br/>
@@ -44,58 +46,20 @@ Software engineer with a **customer-first mindset** and strong troubleshooting i
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="right"><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=js,ts,go,python" height="40"/></td>
-  </tr>
-  <tr>
-    <td align="right"><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,html,css,tailwind" height="40"/></td>
-  </tr>
-  <tr>
-    <td align="right"><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express,django" height="40"/></td>
-  </tr>
-  <tr>
-    <td align="right"><b>Databases &amp; Caching</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" height="40"/></td>
-  </tr>
-  <tr>
-    <td align="right"><b>Cloud &amp; DevOps</b></td>
-    <td><img src="https://skillicons.dev/icons?i=aws,docker,git,github" height="40"/></td>
-  </tr>
-  <tr>
-    <td align="right"><b>Monitoring &amp; Testing</b></td>
-    <td><img src="https://skillicons.dev/icons?i=prometheus,grafana,jest,vitest,postman" height="40"/></td>
-  </tr>
-  <tr>
-    <td align="right"><b>AI-Assisted Dev</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" height="28"/>
-      <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" height="28"/>
-      <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" height="28"/>
-    </td>
-  </tr>
-</table>
+**Languages · Frontend · Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=js,ts,go,python,react,html,css,tailwind,nodejs,express,django&perline=11" />
 
-</div>
+**Databases · Cloud &amp; DevOps · Monitoring**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,aws,docker,git,github,prometheus,grafana,jest,vitest,postman&perline=12" />
 
----
+**AI-Assisted Development**
+<br/>
+<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" height="32"/>
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dheeraj-web-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dheeraj-web-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheeraj-web-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dheeraj-web-dev&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="90%"/>
 </div>
 
 ---
@@ -105,10 +69,15 @@ Software engineer with a **customer-first mindset** and strong troubleshooting i
 ### 📫 Let's Connect
 
 <a href="mailto:dheerajsure595@gmail.com">
-  <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/static/v1?label=&message=&color=D14836&style=for-the-badge&logo=gmail&logoColor=white" height="45" />
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/dheeraj-sure/" target="_blank">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/static/v1?label=&message=&color=0077B5&style=for-the-badge&logo=linkedin&logoColor=white" height="45" />
+</a>
+&nbsp;
+<a href="https://dheeraj-web-dev.github.io/portfolio/" target="_blank">
+  <img src="https://img.shields.io/static/v1?label=&message=&color=000000&style=for-the-badge&logo=googlechrome&logoColor=white" height="45" />
 </a>
 
 <br/><br/>
