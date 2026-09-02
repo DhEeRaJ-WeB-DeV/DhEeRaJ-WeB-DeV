@@ -61,7 +61,13 @@ I'm a Software Engineer focused on building reliable, scalable, and maintainable
 
 ---
 
-### 🛠️ Tech Stack
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1200&color=00BFFF&center=true&vCenter=true&width=400&lines=Tech+Stack" alt="Tech Stack" />
+
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -73,20 +79,14 @@ I'm a Software Engineer focused on building reliable, scalable, and maintainable
 <br/>
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,aws,docker,git,github,prometheus,grafana,jest,vitest,postman&perline=12" />
 
-**AI-Assisted Development**
-<br/>
-<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" height="32"/>
-<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" height="32"/>
-<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" height="32"/>
-
 </div>
 
 ---
 
 <div align="center">
-
-### 📫 Let's Connect
-
+  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1200&color=00BFFF&center=true&vCenter=true&width=450&lines=Let's+Connect" alt="Let's Connect" />
+<br/><br/>
 <a href="mailto:dheerajsure595@gmail.com">
   <img
     src="https://cdn.simpleicons.org/gmail/FF5C8A"
