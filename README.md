@@ -24,7 +24,7 @@
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://dheeraj-web-dev.github.io/portfolio/" target="_blank">
+<a href="https://dheeraj-portfolio-jet.vercel.app/" target="_blank">
   <img
     src="https://cdn.simpleicons.org/googlechrome/FF5C8A"
     width="42"
