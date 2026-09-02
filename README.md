@@ -7,18 +7,17 @@
 
 <!-- Contact badges -->
 <a href="mailto:dheerajsure595@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/gmail/FF5C8A" width="45" height="45" alt="Email" />
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/dheeraj-sure/" target="_blank">
-  <img src="https://img.shields.io/static/v1?label=&message=&color=0077B5&style=for-the-badge&logo=linkedin&logoColor=white" height="45" />
+  <img src="https://cdn.simpleicons.org/linkedin/FF5C8A" width="45" height="45" alt="LinkedIn" />
 </a>
-&nbsp;
-<a href="mailto:dheerajsure595@gmail.com">
-  <img src="https://img.shields.io/static/v1?label=&message=&color=D14836&style=for-the-badge&logo=gmail&logoColor=white" height="45" />
-</a>
-&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="https://dheeraj-web-dev.github.io/portfolio/" target="_blank">
-  <img src="https://img.shields.io/static/v1?label=&message=&color=000000&style=for-the-badge&logo=googlechrome&logoColor=white" height="45" />
+  <img src="https://cdn.simpleicons.org/googlechrome/FF5C8A" width="45" height="45" alt="Portfolio" />
 </a>
 
 <br/><br/>
