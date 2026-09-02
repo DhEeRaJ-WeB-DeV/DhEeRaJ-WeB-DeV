@@ -40,11 +40,9 @@
 
 ---
 
-### About Me
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Backend+Engineer+%7C+Full-Stack+Developer;Building+reliable+and+scalable+systems;APIs+%7C+Distributed+Systems+%7C+Observability;Turning+complex+problems+into+simple+solutions" alt="About Me" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1200&color=00BFFF&center=true&vCenter=true&width=400&lines=About+Me" alt="About Me" />
 
 </div>
 
@@ -60,8 +58,6 @@ I'm a Software Engineer focused on building reliable, scalable, and maintainable
 - Exploring **Go, distributed systems, observability, performance optimization, and AI-assisted development**
 - Interested in **logging, monitoring, metrics, tracing, and building systems that are easier to debug**
 - I enjoy investigating complex technical problems and understanding the underlying cause rather than just fixing the symptoms
-
-<br/>
 
 ---
 
