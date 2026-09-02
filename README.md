@@ -17,7 +17,7 @@
 
 <a href="https://www.linkedin.com/in/dheeraj-sure/" target="_blank">
   <img
-    src="https://cdn.simpleicons.org/linkedin/FF5C8A"
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/linkedin.svg"
     width="42"
     alt="LinkedIn"
   />
@@ -80,16 +80,22 @@ Software engineer with a **customer-first mindset** and strong troubleshooting i
 ### 📫 Let's Connect
 
 <a href="mailto:dheerajsure595@gmail.com">
-  <img src="https://img.shields.io/static/v1?label=&message=&color=D14836&style=for-the-badge&logo=gmail&logoColor=white" height="45" />
+  <img
+    src="https://cdn.simpleicons.org/gmail/FF5C8A"
+    width="42"
+    alt="Email"
+  />
 </a>
-&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/dheeraj-sure/" target="_blank">
-  <img src="https://img.shields.io/static/v1?label=&message=&color=0077B5&style=for-the-badge&logo=linkedin&logoColor=white" height="45" />
+  <img
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/linkedin.svg"
+    width="42"
+    alt="LinkedIn"
+  />
 </a>
-&nbsp;
-<a href="https://dheeraj-web-dev.github.io/portfolio/" target="_blank">
-  <img src="https://img.shields.io/static/v1?label=&message=&color=000000&style=for-the-badge&logo=googlechrome&logoColor=white" height="45" />
-</a>
+
 
 <br/><br/>
 
