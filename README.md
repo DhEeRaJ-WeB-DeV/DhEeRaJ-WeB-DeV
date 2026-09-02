@@ -7,17 +7,29 @@
 
 <!-- Contact badges -->
 <a href="mailto:dheerajsure595@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/FF5C8A" width="45" height="45" alt="Email" />
+  <img
+    src="https://cdn.simpleicons.org/gmail/FF5C8A"
+    width="42"
+    alt="Email"
+  />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/dheeraj-sure/" target="_blank">
-  <img src="https://cdn.simpleicons.org/linkedin/FF5C8A" width="45" height="45" alt="LinkedIn" />
+  <img
+    src="https://cdn.simpleicons.org/linkedin/FF5C8A"
+    width="42"
+    alt="LinkedIn"
+  />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://dheeraj-web-dev.github.io/portfolio/" target="_blank">
-  <img src="https://cdn.simpleicons.org/googlechrome/FF5C8A" width="45" height="45" alt="Portfolio" />
+  <img
+    src="https://cdn.simpleicons.org/googlechrome/FF5C8A"
+    width="42"
+    alt="Portfolio"
+  />
 </a>
 
 <br/><br/>
