@@ -17,7 +17,7 @@
 
 <a href="https://www.linkedin.com/in/dheeraj-sure/" target="_blank">
   <img
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/linkedin.svg"
+    src="https://img.icons8.com/color/48/linkedin.png"
     width="42"
     alt="LinkedIn"
   />
@@ -90,7 +90,7 @@ Software engineer with a **customer-first mindset** and strong troubleshooting i
 
 <a href="https://www.linkedin.com/in/dheeraj-sure/" target="_blank">
   <img
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/linkedin.svg"
+    src="https://img.icons8.com/color/48/linkedin.png"
     width="42"
     alt="LinkedIn"
   />
