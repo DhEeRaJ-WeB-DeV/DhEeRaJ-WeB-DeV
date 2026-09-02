@@ -81,73 +81,6 @@ Software engineer with a **customer-first mindset** and strong troubleshooting i
 
 ---
 
-### 💼 Experience
-
-**Backend & Full-Stack Developer Intern** — Sumeru Digital Solutions · *Jun 2026 – Present*
-- Designed and implemented 15+ production REST APIs (Node.js/Express.js) with robust validation and CRUD operations integrated with MongoDB
-- Reduced API response time by 30–40% via Redis caching for frequent MongoDB queries
-- Secured user sessions with JWT via HTTP-only cookies; validated endpoints with Postman & Thunder Client
-- Improved React frontend rendering by 30% via memoization and lazy loading
-
-**Web Developer** — Mind Matrix · *Feb 2026 – May 2026*
-- Built an automated deployment agent that runs the test suite on every release, pinpoints failing files, performs root-cause analysis, and applies corrective fixes before redeploying
-- Reduced average deployment time by ~40% by eliminating manual debugging and repeated redeploy cycles
-- Fixed bugs across the existing codebase by tracing issues to their root cause
-
----
-
-### 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-**💬 Real-Time Chat Web Application**
-<br/>
-<a href="#">GitHub</a> · <a href="#">Live Demo</a> · <a href="#">Docker Hub</a>
-
-Scalable real-time messaging platform using Socket.IO for sub-100ms delivery, containerized with Docker, with Prometheus + Grafana + Loki observability across API latency and WebSocket connections.
-
-`React` `Zustand` `Node.js` `Socket.IO` `MongoDB` `Redis` `JWT` `Docker`
-
-</td>
-<td width="50%">
-
-**🤖 AI-Based Interview Platform**
-<br/>
-<a href="#">GitHub</a> · <a href="#">Docker Hub</a>
-
-Full-stack AI-powered interview platform with admin, recruiter, and candidate portals. Integrates an LLM to dynamically generate questions, plus video recording and speech-to-text transcription.
-
-`React` `Node.js` `Express.js` `MongoDB` `OpenAI` `BullMQ` `Docker`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**📝 Simple Notes Application**
-<br/>
-<a href="#">GitHub</a>
-
-Full-stack CRUD app: responsive React frontend consuming a Django REST API backed by PostgreSQL, with all endpoints manually tested via Postman.
-
-`React` `Django` `DRF` `PostgreSQL` `Axios`
-
-</td>
-<td width="50%">
-
-**✨ More coming soon**
-<br/>
-
-Currently building out new projects — check back soon or explore my <a href="https://dheeraj-web-dev.github.io/portfolio/">portfolio</a> for the latest work.
-
-</td>
-</tr>
-</table>
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -162,16 +95,6 @@ Currently building out new projects — check back soon or explore my <a href="h
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dheeraj-web-dev&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="90%"/>
 </div>
-
----
-
-### 🎓 Education
-
-| Degree | Institution | Score | Years |
-|---|---|---|---|
-| B.E. — Robotics and Artificial Intelligence | Bangalore Institute of Technology | 8.0 / 10.0 CGPA | 2022 – 2026 |
-| Pre-University Course (PCM) | Sri Chaitanya College of Education | 91% | 2020 – 2022 |
-| SSLC (10th) | St. Anne's Lions High School | 76% | 2019 – 2020 |
 
 ---
 
