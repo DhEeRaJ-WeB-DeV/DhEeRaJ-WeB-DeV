@@ -40,16 +40,28 @@
 
 ---
 
-### 🧑‍💻 About Me
+### About Me
 
-Software engineer with a **customer-first mindset** and strong troubleshooting instincts — I enjoy diagnosing bugs, configuration issues, and integration failures across REST APIs, databases, and cloud systems, and collaborating with teams to ship reliable, observable software.
+<div align="center">
 
-- 🔭 Currently working as a **Backend & Full-Stack Developer Intern** at **Sumeru Digital Solutions**
-- 🎓 B.E. in **Robotics and Artificial Intelligence**, Bangalore Institute of Technology (CGPA: 8.0/10.0)
-- ⚡ I like building things end-to-end — from REST APIs and caching layers to Docker deployments and Grafana dashboards
-- 🌱 Currently sharpening skills in distributed systems, observability, and AI-assisted development
-- 💬 Ask me about Node.js, React, MongoDB/PostgreSQL, Redis, or Docker
-- ⭐ *"Always open to discussing new opportunities, interesting projects, or just chatting about technology."*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Backend+Engineer+%7C+Full-Stack+Developer;Building+reliable+and+scalable+systems;APIs+%7C+Distributed+Systems+%7C+Observability;Turning+complex+problems+into+simple+solutions" alt="About Me" />
+
+</div>
+
+<br/>
+
+I'm a Software Engineer focused on building reliable, scalable, and maintainable software. I enjoy working on backend systems, designing APIs, optimizing data access, and understanding how systems behave under real-world conditions.
+
+- Currently working as a **Backend & Full-Stack Developer Intern** at **Sumeru Digital Solutions**
+- B.E. in **Robotics and Artificial Intelligence** from Bangalore Institute of Technology, with a **CGPA of 8.0/10.0**
+- Interested in **Backend Engineering, Distributed Systems, System Design, and Cloud Infrastructure**
+- Experienced in building **REST APIs, authentication systems, caching layers, and database-driven applications**
+- Working with **Node.js, Express, React, PostgreSQL, MongoDB, Redis, and Docker**
+- Exploring **Go, distributed systems, observability, performance optimization, and AI-assisted development**
+- Interested in **logging, monitoring, metrics, tracing, and building systems that are easier to debug**
+- I enjoy investigating complex technical problems and understanding the underlying cause rather than just fixing the symptoms
+
+<br/>
 
 ---
 
